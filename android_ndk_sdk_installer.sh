@@ -64,4 +64,4 @@ echo "export PATH=$PATH:$ANDROID_HOME:$ANDROID_TOOLS:$ANDROID_PLATFORM_TOOLS:$AN
 echo "New system variables: ANDROID_HOME, ANDROID_NDK_HOME, ANDROID_TOOLS, ANDROID_PLATFORM_TOOLS"
 
 # Installing required library
-apt-get install zlib1g -y
+sudo apt-get install zlib1g -y
